@@ -1,3 +1,4 @@
+<img width="1920" height="1075" alt="Screenshot 2026-06-16 153809" src="https://github.com/user-attachments/assets/3bf5afd6-7dcd-47f1-8869-a60d9278d19e" />
 <img width="1920" height="1080" alt="Screenshot 2026-06-15 171818" src="https://github.com/user-attachments/assets/4d44f616-7099-4567-8950-7ef80721d738" />
 # new_geocery
 
