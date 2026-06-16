@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:new_geocery/screens/home/home_screen.dart';
+import 'package:new_geocery/screens/register_screen/widgets/register_screen.dart';
 
 class LoginScreen extends StatelessWidget {
   const LoginScreen({super.key});
@@ -48,7 +49,7 @@ class LoginScreen extends StatelessWidget {
             ),
             SizedBox(height: 30,),
          InkWell(onTap: () {
-           Navigator.push(context, MaterialPageRoute(builder: (context)=>HomeScreen()));
+           Navigator.push(context, MaterialPageRoute(builder: (context)=>RegisterScreen()));
          },
            child: Container(decoration: BoxDecoration(
             borderRadius: BorderRadius.circular(19),
